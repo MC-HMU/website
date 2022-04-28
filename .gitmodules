@@ -1,0 +1,6 @@
+[submodule "website-theme"]
+	path = website-theme
+	url = https://github.com/MC-HMU/website-theme.git
+[submodule "themes/stellar"]
+	path = themes/stellar
+	url = https://github.com/MC-HMU/website-theme.git

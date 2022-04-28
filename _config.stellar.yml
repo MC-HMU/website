@@ -1,0 +1,29 @@
+sidebar:
+  menu:
+    home: '[btn.home](/)'
+  widgets:
+    # Recent update
+    recent:
+      layout: recent
+      rss: /atom.xml # npm i hexo-generator-feed
+      limit: 5 # Count of posts
+footer:
+  social:
+    - icon: '<img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/github.svg"/>'
+      url: https://github.com/MC-HMU
+    - icon: '<img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/envelopes-bulk.svg"/>'
+      url: mailto:admin@mc.hmu.ac.cn
+  sitemap:
+
+  source: '[GitHub](https://github.com/MC-HMU/website/)'
+
+comments:
+  service: utterances # utterances
+  utterances:
+    repo: Cubik65536/blog-comments
+
+######## Tag Plugins ########
+tag_plugins:
+  # {% image %}
+  image:
+    fancybox: true

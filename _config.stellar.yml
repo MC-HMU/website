@@ -14,6 +14,12 @@ footer:
     - icon: '<img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/envelopes-bulk.svg"/>'
       url: mailto:admin@mc.hmu.ac.cn
   sitemap:
+    '主页':
+      - '[简介](/)'
+      - '[服务器事件记录](/#服务器事件记录)'
+    '论坛':
+      - '[论坛主页](https://bbs.mc.hmu.ac.cn)'
+      - '[申请审核帖](https://bbs.mc.hmu.ac.cn/d/3)'
 
   source: '[GitHub](https://github.com/MC-HMU/website/)'
 

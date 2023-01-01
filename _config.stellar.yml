@@ -1,7 +1,7 @@
 sidebar:
   menu:
     home: '[btn.home](/)'
-    czbzyfmsx: '[全装备最优附魔顺序](/全装备最优附魔顺序)'
+    czbzyfmsx: '[全装备最优附魔顺序](/all-gear-best-enchant-order)'
   widgets:
     # Recent update
     recent:
@@ -18,7 +18,7 @@ footer:
     '主页':
       - '[简介](/)'
       - '[服务器事件记录](/#服务器事件记录)'
-      - '[全装备最优附魔顺序](/全装备最优附魔顺序)'
+      - '[全装备最优附魔顺序](/all-gear-best-enchant-order)'
     '论坛':
       - '[论坛主页](https://bbs.mc.hmu.ac.cn)'
       - '[申请审核帖](https://bbs.mc.hmu.ac.cn/d/3)'

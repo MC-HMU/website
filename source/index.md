@@ -19,7 +19,7 @@ header: false
 <p style="text-align: center;"><b>Minecraft 原版生存服务器</b></p>
 <p style="text-align: center;">那你就找对地方了！</p>
 
-<h5 style="text-align: center;"><a href="https://bbs.mc.hmu.ac.cn/">点击此处加入我们<a></h5>
+<h5 style="text-align: center;"><a href="https://forum.mc.hmu.ac.cn/d/3/">点击此处加入我们<a></h5>
 
 {% endabout %}
 
@@ -51,7 +51,7 @@ header: false
 
 我们与我们的网络服务合作伙伴建立关系，尽全力为全球所有服务器玩家提供最高速的访问通道。
 
-<h3 style="text-align: center;"><a href="https://bbs.mc.hmu.ac.cn/">点击此处加入我们<a></h3>
+<h3 style="text-align: center;"><a href="https://forum.mc.hmu.ac.cn/d/3/">点击此处加入我们<a></h3>
 
 ## 服务器事件记录
 

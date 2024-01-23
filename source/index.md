@@ -57,6 +57,14 @@ header: false
 
 {% timeline %}
 
+<!-- node 2023 年 12 月 09 日 -->
+
+服务器升级 Minecraft Java Edition 1.20.2
+
+<!-- node 2023 年 11 月 11 日 -->
+
+服务器炸了，但是存档恢复成功
+
 <!-- node 2022 年 05 月 01 日 -->
 
 服务器开服，使用 Minecraft Java Edition 1.18.2，搭配正版验证
